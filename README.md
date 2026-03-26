@@ -5,6 +5,32 @@ Reviews are grouped by star rating and representative sentences are extracted
 using TextRank and MMR.
 Users can understand key reasons for each star rating without reading hundreds of reviews."
 
+## Video
+
+[Code walkthrough playlist (YouTube)](https://www.youtube.com/playlist?list=PLI0Ags0Mk8JzyMsOGdbPhZM0Miw76f4sU)
+
+### YouTube code walkthrough playlist (7 videos)
+
+**Playlist name:** `Restaurant ReviewFlash Berlin – Code walkthrough (7 steps)`  
+Shorter: `RRF Berlin – code walkthrough 01–07`
+
+In **YouTube Studio > Content** (or the playlist), open each video > **Title** and paste the **New title** below. Use **Length** (and thumbnail) to tell two different clips that were both saved as `2 5` on the phone.
+
+| # | New title (paste this) | Old name (what you see now) | Length (reference) |
+|---|------------------------|-----------------------------|--------------------|
+| 1 | `01 – Web code run: reviews (first)` | 2 리뷰 | ~2:56 |
+| 2 | `02 – EDA 2_2` | eda2 2 | ~4:48 |
+| 3 | `03 – EDA 2_4` | eda 2 4 | ~5:32 |
+| 4 | `04 – EDA 2_5 (part 1)` | 2 5 (first of two) | ~4:39 |
+| 5 | `05 – EDA 2_5 (part 2)` | 2 5 (second of two) | ~4:39 |
+| 6 | `06 – Part 3: final pipeline execution` | 3코드실행 파이프랑니 | ~1:47 |
+| 7 | `07 – Part 3: final UI walkthrough` | 3최종 | (varies) |
+
+**Playlist order:** drag videos in the playlist so the order is **1 > 2 > 3 > 4 > 5 > 6 > 7** as in the table.
+
+If your two `2 5` files are **not** both for `2_5`, swap rows 4–5 titles after you check the thumbnails; the table still gives you seven distinct names.
+
+
 ## 1.motive
 
 : While Google Maps presents a single aggregated rating such as 4.2 stars, it does not explain the reasons behind this score.
