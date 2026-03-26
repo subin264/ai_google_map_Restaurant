@@ -16,15 +16,15 @@ Shorter: `RRF Berlin – code walkthrough 01–07`
 
 In **YouTube Studio > Content** (or the playlist), open each video > **Title** and paste the **New title** below. Use **Length** (and thumbnail) to tell two different clips that were both saved as `2 5` on the phone.
 
-| # | New title (paste this) | Old name (what you see now) | Length (reference) |
-|---|------------------------|-----------------------------|--------------------|
-| 1 | `01 – Web code run: reviews (first)` | 2 리뷰 | ~2:56 |
-| 2 | `02 – EDA 2_2` | eda2 2 | ~4:48 |
-| 3 | `03 – EDA 2_4` | eda 2 4 | ~5:32 |
-| 4 | `04 – EDA 2_5 (part 1)` | 2 5 (first of two) | ~4:39 |
-| 5 | `05 – EDA 2_5 (part 2)` | 2 5 (second of two) | ~4:39 |
-| 6 | `06 – Part 3: final pipeline execution` | 3코드실행 파이프랑니 | ~1:47 |
-| 7 | `07 – Part 3: final UI walkthrough` | 3최종 | (varies) |
+| # | New title (paste this) | Length (reference) |
+|---|------------------------|--------------------|
+| 1 | `01 – Web code run: reviews (first)` | ~2:56 |
+| 2 | `02 – EDA 2_2`| ~4:48 |
+| 3 | `03 – EDA 2_4`| ~5:32 |
+| 4 | `04 – EDA 2_5 (part 1)`| ~4:39 |
+| 5 | `05 – EDA 2_5 (part 2)`| ~4:39 |
+| 6 | `06 – Part 3: final pipeline execution`| ~1:47 |
+| 7 | `07 – Part 3: final UI walkthrough`| (varies) |
 
 **Playlist order:** drag videos in the playlist so the order is **1 > 2 > 3 > 4 > 5 > 6 > 7** as in the table.
 
@@ -82,6 +82,4 @@ Diversity = 1 − (1 / n(n−1)) ×
 
 ## Tech Stack
 
-Python · Google Maps Places API ·
-Playwright · spaCy · TF-IDF ·
-Streamlit · Figma"
+Python,Google Maps Places API,Playwright · spaCy · TF-IDF,Streamlit · Figma
