@@ -1,0 +1,2 @@
+# This is raw review data for all restaurants in 6 regions used in final pipeline.
+Each restaurant has maximum 200 reviews limit so even if restaurant has more reviews only 200 are used
